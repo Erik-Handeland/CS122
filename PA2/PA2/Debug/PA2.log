@@ -1,0 +1,109 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PA2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  functions.c
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(40): warning C4047: '<': 'int *' differs in levels of indirection from 'int'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(40): warning C4047: '>': 'int *' differs in levels of indirection from 'int'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(42): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(38): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int **'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(57): warning C4013: 'isEmpty' undefined; assuming extern returning int
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(92): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(93): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(94): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(95): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(141): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(153): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(186): warning C4033: 'printSearch' must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(209): warning C4033: 'printAll' must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(219): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(220): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(221): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(222): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(235): warning C4473: 'scanf' : not enough arguments passed for format string
+  c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(235): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(235): note: the missing variadic argument 1 is required by format string '%c'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(235): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(234): warning C4101: 'temp': unreferenced local variable
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(324): warning C4033: 'deleteNode' must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(334): warning C4033: 'deleteNode' must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(299): warning C4101: 'newData': unreferenced local variable
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(356): warning C4018: '<': signed/unsigned mismatch
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(363): warning C4018: '<': signed/unsigned mismatch
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(391): warning C4033: 'edit' must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(396): warning C4033: 'edit' must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(408): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(430): warning C4018: '<': signed/unsigned mismatch
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(437): warning C4018: '<': signed/unsigned mismatch
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(476): warning C4033: 'displayNode' must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(523): warning C4087: 'rand': declared with 'void' parameter list
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(531): warning C4087: 'rand': declared with 'void' parameter list
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(552): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(712): warning C4473: 'scanf' : not enough arguments passed for format string
+  c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(712): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(712): note: the missing variadic argument 1 is required by format string '%c'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(712): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(711): warning C4101: 'temp': unreferenced local variable
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(731): warning C4129: ':': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(732): warning C4129: ':': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(733): warning C4129: ':': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(735): warning C4129: '.': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(736): warning C4129: '.': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(736): warning C4129: ':': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(737): warning C4129: ';': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(738): warning C4129: '.': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(739): warning C4129: ';': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(739): warning C4129: '.': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(740): warning C4129: ':': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(741): warning C4129: ';': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(742): warning C4129: ';': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(743): warning C4129: ';': unrecognized character escape sequence
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(129): warning C4715: 'store': not all control paths return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(157): warning C4716: 'display': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(189): warning C4716: 'printSearch': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(211): warning C4716: 'printAll': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(246): warning C4716: 'insert': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(335): warning C4716: 'deleteNode': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(397): warning C4716: 'edit': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(418): warning C4716: 'play': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(478): warning C4716: 'displayNode': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(519): warning C4716: 'shuffle': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(537): warning C4716: 'shuffle_array': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(594): warning C4716: 'switchNodes': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(620): warning C4716: 'sort_artist': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(573): warning C4716: 'sort_menu': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(645): warning C4716: 'sort_Album': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(670): warning C4716: 'sort_Rating': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(696): warning C4716: 'sort_PlayCount': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(716): warning C4716: 'cont_promt': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(753): warning C4716: 'play_song': must return a value
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa2\pa2\functions.c(701): warning C4716: 'clear_Screen': must return a value
+  PA2.vcxproj -> C:\Users\Erik\OneDrive - Washington State University (email.wsu.edu)\Cpts 122\PA2\Debug\PA3.exe
+  PA2.vcxproj -> C:\Users\Erik\OneDrive - Washington State University (email.wsu.edu)\Cpts 122\PA2\Debug\PA3.pdb (Full PDB)
