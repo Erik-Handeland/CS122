@@ -1,0 +1,7 @@
+﻿  Tree.cpp
+  Generating Code...
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa6\pa6\tree.cpp(101): warning C4715: 'Tree::searchTreeChar': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  main.cpp
+  PA6.vcxproj -> C:\Users\Erik\OneDrive - Washington State University (email.wsu.edu)\Cpts 122\PA6\Debug\PA6.exe
+  PA6.vcxproj -> C:\Users\Erik\OneDrive - Washington State University (email.wsu.edu)\Cpts 122\PA6\Debug\PA6.pdb (Full PDB)

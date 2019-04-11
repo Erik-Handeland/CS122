@@ -1,0 +1,20 @@
+﻿  stack.cpp
+c:\users\erik\onedrive - washington state university (email.wsu.edu)\cpts 122\pa7\pa7\stack.cpp(27): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  node.cpp
+  functions.cpp
+  main.cpp
+  list.cpp
+  data.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall list<class data>::list<class data>(void)" (??0?$list@Vdata@@@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall list<class data>::~list<class data>(void)" (??1?$list@Vdata@@@@QAE@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: class list<class data> * __thiscall list<class data>::getHead(void)" (?getHead@?$list@Vdata@@@@QAEPAV1@XZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "public: bool __thiscall list<class data>::isEmpty(void)" (?isEmpty@?$list@Vdata@@@@QAE_NXZ) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl importCVS<class list<class data> >(class list<class data> &,class std::basic_ifstream<char,struct std::char_traits<char> > &)" (??$importCVS@V?$list@Vdata@@@@@@YAXAAV?$list@Vdata@@@@AAV?$basic_ifstream@DU?$char_traits@D@std@@@std@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl importTXT<class list<class data> >(class list<class data> &,class std::basic_ifstream<char,struct std::char_traits<char> > &)" (??$importTXT@V?$list@Vdata@@@@@@YAXAAV?$list@Vdata@@@@AAV?$basic_ifstream@DU?$char_traits@D@std@@@std@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl exportList<class list<class data> >(class list<class data> *,class std::basic_ofstream<char,struct std::char_traits<char> > &)" (??$exportList@V?$list@Vdata@@@@@@YAXPAV?$list@Vdata@@@@AAV?$basic_ofstream@DU?$char_traits@D@std@@@std@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl markAbsences<class list<class data> >(class list<class data> *)" (??$markAbsences@V?$list@Vdata@@@@@@YAXPAV?$list@Vdata@@@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl printAbsences<class list<class data> >(class list<class data> *)" (??$printAbsences@V?$list@Vdata@@@@@@YAXPAV?$list@Vdata@@@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl editAbsences<class list<class data> >(class list<class data> *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??$editAbsences@V?$list@Vdata@@@@@@YAXPAV?$list@Vdata@@@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function _main
+main.obj : error LNK2019: unresolved external symbol "void __cdecl printAbsences<class list<class data> >(class list<class data> *,int)" (??$printAbsences@V?$list@Vdata@@@@@@YAXPAV?$list@Vdata@@@@H@Z) referenced in function _main
+C:\Users\Erik\OneDrive - Washington State University (email.wsu.edu)\Cpts 122\PA7\Debug\PA7.exe : fatal error LNK1120: 11 unresolved externals
